@@ -10,7 +10,7 @@ headless: true
 weight: 20
 
 title: Experience
-subtitle:
+subtitle: Assignment
 
 # Date format for experience
 #   Refer to https://docs.hugoblox.com/customization/#date-format
@@ -44,6 +44,7 @@ experience:
 #   date_start: '2016-01-01'
 #    date_end: '2020-12-31'
 #    description: Taught electronic engineering and #researched semiconductor physics.
+  <!--{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.-->
 
 design:
   columns: '1'
