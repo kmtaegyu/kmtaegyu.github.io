@@ -69,5 +69,7 @@ social:
 ---
 
 전북대학교 컴퓨터공학부 재학, 웹개발과 인공지능을 공부하고 있다. 
+Java, c, kotlin으로 프로젝트를 수행하였다. 현재는 Node.js로 웹개발을 공부하고 있으며, Data Minning수업을 들으며 ADP자격증을 공부하고 있다. 
+등산, 런닝, 축구, 수영을 취미로 하고 있다.
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/data4.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
