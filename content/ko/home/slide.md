@@ -20,7 +20,7 @@ sections:
         align: center
         background:
           image:
-            filename: /media/icon.jpg
+            filename: icon.jpg
             filters:
               brightness: 0.4
           position: center
@@ -31,7 +31,7 @@ sections:
         align: center
         background:
           image:
-            filename: /media/icon1.jpg
+            filename: icon1.jpg
             filters:
               brightness: 0.4
           position: center
@@ -42,7 +42,7 @@ sections:
         align: center
         background:
           image:
-            filename: /media/icon2.jpg
+            filename: icon2.jpg
             filters:
               brightness: 0.4
           position: center
