@@ -1,8 +1,8 @@
 ---
-title: Cartoon Face Generator
-summary: Write about your project here...
+title: app
+summary: Pet Dog Walking Matching Project
 tags:
   - CV
-date: 2022-01-01
-external_link: http://github.com
+date: 2023-09-01
+external_link: https://github.com/kmtaegyu/petner_mobile_app
 ---
