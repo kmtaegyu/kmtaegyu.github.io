@@ -115,3 +115,16 @@ ul.network-icon .big-icon {
 .wg-about .portrait-title h3 {
   font-size: 0.8rem;
 }
+
+$primary-color: blue;
+$hover-color: darkblue;
+
+button {
+  background-color: $primary-color;
+  color: white;
+  padding: 10px;
+
+  &:hover {
+    background-color: $hover-color;
+  }
+}

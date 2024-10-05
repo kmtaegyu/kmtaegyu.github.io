@@ -30,6 +30,22 @@ experience:
     date_start: '2019-03-01'
     date_end: '2025-12-31'
 
+experience:
+  - title: 전자과
+    company: 경기기계공업고등학교
+    company_url: ''
+    company_logo: org-x
+    location: 서울
+    date_start: '2016-03-01'
+    date_end: '2018-12-31'
+    description: |2-
+        자격증:
+        
+        * 정보처리기능사
+        * 전자기기기능사
+        * 전자캐드기능사
+        * 리눅스마스터 2급
+
 #  - title: BEng Electronic Engineering
 #    company: University X
 #    company_url: ''
