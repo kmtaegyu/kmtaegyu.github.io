@@ -56,5 +56,5 @@ experience:
 #    description: My dissertation was on X
 
 design:
-  columns: '1'
+  columns: '2'
 ---

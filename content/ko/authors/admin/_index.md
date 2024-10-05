@@ -73,3 +73,9 @@ Java, c, kotlin으로 프로젝트를 수행하였다. 현재는 Node.js로 웹�
 등산, 런닝, 축구, 수영을 취미로 하고 있다.
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/data4.pdf" "newtab" >}}Download{{< /staticref >}} 수행 과제 PDF
+
+# App Project
+
+Android studio에서 Kotlin을 이용해 팀프로젝트를 진행.
+내 역할 : 메신저 개발
+핵심 : Firebase를 이용해 실시간 정보 전달, 양쪽 모두 실시간 데이터 sync를 통해 메시지 확인
