@@ -30,7 +30,6 @@ experience:
     date_start: '2019-03-01'
     date_end: '2025-12-31'
 
-experience:
   - title: 전자과
     company: 경기기계공업고등학교
     company_url: ''
@@ -56,5 +55,5 @@ experience:
 #    description: My dissertation was on X
 
 design:
-  columns: '2'
+  columns: '1'
 ---
