@@ -1,8 +1,8 @@
 ---
-title: Data Analysis
+title: Algorithm
 summary: I'll add it later
 tags:
-  - DA
+  - AL
 date: 2025-01-01
 external_link: http://github.com/kmtaegyu/
 ---
