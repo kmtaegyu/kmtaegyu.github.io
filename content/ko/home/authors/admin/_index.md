@@ -18,13 +18,13 @@ status:
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include web development and artificial intelligence.
+bio: My research interests include web development and Data Analysis.
 
 
 interests:
 - Artificial Intelligence
 - Computational Linguistics
-- Data Minning
+- Data Analysis
 
 #education:
 #  courses:
