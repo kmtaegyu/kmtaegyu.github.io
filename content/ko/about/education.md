@@ -4,7 +4,7 @@
 widget: experience
 
 # This file represents a page section.
-headless: true
+headless: false
 
 # Order that this section appears on the page.
 weight: 30
@@ -55,5 +55,5 @@ experience:
 #    description: My dissertation was on X
 
 design:
-  columns: '1'
+  columns: '2'
 ---
