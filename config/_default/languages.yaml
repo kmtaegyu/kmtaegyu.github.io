@@ -5,20 +5,7 @@
 # Default language
 # Default language (English)
 # Default language (English)
-en:
-  languageCode: en-us
-  contentDir: content/en
-  title: "My Portfolio"
-  params:
-    description: "This is the English version of my portfolio."
-  menu:
-    main:
-      - name: "Home"
-        url: "/"
-        weight: 1
-      - name: "About"
-        url: "/about/"
-        weight: 2
+
 
 # Korean language
 ko:
@@ -33,6 +20,21 @@ ko:
         url: "/"
         weight: 1
       - name: "소개"
+        url: "/about/"
+        weight: 2
+
+en:
+  languageCode: en-us
+  contentDir: content/en
+  title: "My Portfolio"
+  params:
+    description: "This is the English version of my portfolio."
+  menu:
+    main:
+      - name: "Home"
+        url: "/"
+        weight: 1
+      - name: "About"
         url: "/about/"
         weight: 2
 
