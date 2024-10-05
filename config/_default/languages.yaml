@@ -29,33 +29,33 @@ ko:
 en:
   languageCode: en-us
   contentDir: content/en
-  title: "My Portfolio"
-  params:
-    description: "This is the English version of my portfolio."
-  menu:
-    main:
-      - name: "Home"
-        url: "/"
-        weight: 1
-      - name: "About"
-        url: "/about/"
-        weight: 2
+#  title: "My Portfolio"
+#  params:
+#    description: "This is the English version of my portfolio."
+#  menu:
+#    main:
+#      - name: "Home"
+#        url: "/"
+#        weight: 1
+#      - name: "About"
+#        url: "/about/"
+#        weight: 2
 
 # Spanish language
 es:
   languageCode: es
   contentDir: content/es
-  title: "Mi Portafolio"
-  params:
-    description: "Esta es la versión en español de mi portafolio."
-  menu:
-    main:
-      - name: "Inicio"
-        url: "/"
-        weight: 1
-      - name: "Acerca de"
-        url: "/about/"
-        weight: 2
+#  title: "Mi Portafolio"
+##  params:
+#    description: "Esta es la versión en español de mi portafolio."
+#  menu:
+#    main:
+#      - name: "Inicio"
+#        url: "/"
+#        weight: 1
+#      - name: "Acerca de"
+#        url: "/about/"
+#        weight: 2
 
 
 
