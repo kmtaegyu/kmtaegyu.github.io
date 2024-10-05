@@ -70,4 +70,4 @@ social:
 
 전북대학교 컴퓨터공학부 재학, 웹개발과 인공지능을 공부하고 있다. 
 
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
+<!--{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.-->
