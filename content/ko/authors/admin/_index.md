@@ -1,7 +1,7 @@
 ---
 # Display name
 title: 김태규(전북대학교)
-
+subtitle: kmtaegyu@gmail.com
 # Is this the primary user of the site?
 superuser: true
 
