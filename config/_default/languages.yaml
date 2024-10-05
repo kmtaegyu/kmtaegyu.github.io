@@ -3,10 +3,56 @@
 #   Documentation: https://docs.hugoblox.com/reference/language/
 
 # Default language
+# Default language (English)
+# Default language (English)
 en:
   languageCode: en-us
-  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
   contentDir: content/en
+  title: "My Portfolio"
+  params:
+    description: "This is the English version of my portfolio."
+  menu:
+    main:
+      - name: "Home"
+        url: "/"
+        weight: 1
+      - name: "About"
+        url: "/about/"
+        weight: 2
+
+# Korean language
+ko:
+  languageCode: ko
+  contentDir: content/ko
+  title: "내 포트폴리오"
+  params:
+    description: "이것은 내 포트폴리오의 한국어 버전입니다."
+  menu:
+    main:
+      - name: "홈"
+        url: "/"
+        weight: 1
+      - name: "소개"
+        url: "/about/"
+        weight: 2
+
+# Spanish language
+es:
+  languageCode: es
+  contentDir: content/es
+  title: "Mi Portafolio"
+  params:
+    description: "Esta es la versión en español de mi portafolio."
+  menu:
+    main:
+      - name: "Inicio"
+        url: "/"
+        weight: 1
+      - name: "Acerca de"
+        url: "/about/"
+        weight: 2
+
+
 
 # Uncomment the lines below to configure your website in a second language.
 #zh:
