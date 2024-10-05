@@ -11,17 +11,20 @@
 ko:
   languageCode: ko
   contentDir: content/ko
-  title: "내 포트폴리오"
-  params:
-    description: "이것은 내 포트폴리오의 한국어 버전입니다."
-  menu:
-    main:
-      - name: "홈"
-        url: "/"
-        weight: 1
-      - name: "소개"
-        url: "/about/"
-        weight: 2
+#  title: "내 포트폴리오"
+#  params:
+#    description: "이것은 내 포트폴리오의 한국어 버전입니다."
+#  menu:
+#    main:
+#      - name: "홈"
+#        url: "/"
+#        weight: 1
+#      - name: "소개"
+#        url: "/about/"
+#        weight: 2
+#      - name: "프로젝트"
+#        url: "/project/"
+#        weight: 3 
 
 en:
   languageCode: en-us
