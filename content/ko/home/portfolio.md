@@ -32,6 +32,10 @@ content:
       tag: app
     - name: Web
       tag: web
+    - name: DA
+      tag: DA  
+    - name: algorithm
+      tag: AL  
 #    - name: NLP
 #      tag: NLP
 
