@@ -18,12 +18,13 @@ status:
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include web development and artificial intelligence.
 
-#interests:
-#- Artificial Intelligence
-#- Computational Linguistics
-#- Information Retrieval
+
+interests:
+- Artificial Intelligence
+- Computational Linguistics
+- Data Minning
 
 #education:
 #  courses:
@@ -67,9 +68,10 @@ social:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 #email: ""
 ---
-
+<!--
 호카게 김태규
 
 안녕 나는 호카게야
+-->
 
 <!-- {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF. -->

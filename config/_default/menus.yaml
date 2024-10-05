@@ -6,10 +6,20 @@
 main:
   - name: Home
     url: /
-    weight: 10
-  - name: Resumé
+    weight: 100
+
+  - name: About
     url: about/
-    weight: 20
+    weight: 200
+
   - name: project
     url: project/
-    weight: 30
+    weight: 300
+  - parent: project
+    name: app
+    url: app
+    weight: 310
+  - parent: project
+    name: web
+    url: web
+    weight: 320
