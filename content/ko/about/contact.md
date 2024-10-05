@@ -3,7 +3,6 @@
 # Documentation: https://docs.hugoblox.com/getting-started/page-builder/
 widget: contact
 
-#https://github.com/JBNU-MACS/JBNU-MACS.github.io/blob/main/content/ko/contact/index.md?plain=1
 type: landing
 
 # This file represents a page section.
@@ -11,6 +10,13 @@ headless: true
 
 # Order that this section appears on the page.
 weight: 50
+
+features:
+  map:
+    provider: 'mapnik'  # 지도 공급자 설정
+    api_key: ''
+    zoom: 15
+
 sections:
   title: Contact
   subtitle:
@@ -28,10 +34,11 @@ sections:
         # Enable CAPTCHA challenge to reduce spam?
         captcha: false
         email: kmtaegyu@gmail.com
-        
-  coordinates:
-        latitude: '35.84601324617979'
-        longitude: '127.13444961966684'
+
+    # Coordinates for the map
+    coordinates:
+      latitude: '35.84601324617979'
+      longitude: '127.13444961966684'
 
   design:
     columns: '2'
