@@ -1,5 +1,5 @@
 ---
-title: app develop
+title: app develop 여기는 홈/project/
 summary: Team Project with kotlin
 tags:
   - app
