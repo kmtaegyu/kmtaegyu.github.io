@@ -17,7 +17,7 @@ sections:
       subtitle: ''
 
       # Automatically link email and phone or display as text?
-      autolink: true
+      #autolink: true
 
       # Email form provider
       form:
@@ -28,11 +28,15 @@ sections:
           # Enable CAPTCHA challenge to reduce spam?
           captcha: false
           email: kmtaegyu@gmail.com
+          phone: 010-9931-9603
 
       # Coordinates for the map
       coordinates:
         latitude: '35.84601324617979'
         longitude: '127.13444961966684'
+      directino:
+
+      autolink: true
 
 design:
   columns: '2'

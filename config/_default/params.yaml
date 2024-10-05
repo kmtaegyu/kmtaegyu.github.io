@@ -34,7 +34,7 @@ marketing:
 header:
   navbar:
     enable: true
-    align: r
+    align: c
     show_logo: false
     show_language: false
     show_day_night: true
@@ -89,7 +89,7 @@ features:
       category: ''
       category_id: ''
   search:
-    provider: ''
+    provider: wowchemy
     algolia:
       app_id: ''
       api_key: ''
@@ -112,3 +112,8 @@ extensions:
 publications:
   date_format: January 2006
   citation_style: apa
+
+#search
+params:
+  search:
+    enable: true
