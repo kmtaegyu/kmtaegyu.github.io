@@ -15,8 +15,8 @@ sections:
    content:
       slides:
 
-      - title: <span style="font-size:90%">AI</span>
-        content: <span style="font-size:90%">의료/항공우주/컨텐츠 등 특성화 분야에 적용 가능한 AI 기술 개발<span style="font-size:90%">
+      - title: <span style="font-size:90%">Web</span>
+        content: <span style="font-size:90%">Node.js를 이용한 backend개발<span style="font-size:90%">
         align: center
         background:
           image:
@@ -26,8 +26,8 @@ sections:
           position: center
           color: '#000'
 
-      - title: <span style="font-size:90%">Medical AI</span>
-        content: <span style="font-size:90%">의료AI를 통한 질병 진단 및 환경 개선</span>
+      - title: <span style="font-size:90%">Data Analysis</span>
+        content: <span style="font-size:90%">R과 Matlab을 이용한 데이터 분석</span>
         align: center
         background:
           image:
@@ -37,8 +37,8 @@ sections:
           position: center
           color: '#000'
 
-      - title: <span style="font-size:90%">Healthcare</span>
-        content: <span style="font-size:90%">의료 및 헬스케어 분야에 적용 가능한 AI 기술 개발</span>
+      - title: <span style="font-size:90%">Algorithm</span>
+        content: <span style="font-size:90%">c++을 통해 여러가지 문제 해결</span>
         align: center
         background:
           image:
