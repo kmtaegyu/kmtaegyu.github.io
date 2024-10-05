@@ -1,8 +1,8 @@
 ---
-title: app team project
-summary: language = kotlin
+title: app develop
+summary: Team Project with kotlin
 tags:
-  - mobile programming
+  - app
 date: 2023-11-01
 external_link: https://github.com/kmtaegyu/petner_mobile_app
 ---
