@@ -1,4 +1,6 @@
 {{/* layouts/partials/blocks/v1/slide_image.html */}}
 <div class="slide-image">
-  <img src="{{ .Params.image }}" alt="{{ .Params.title }}" />
+  {{ range .Params.images }} <!-- 슬라이드 이미지를 반복 -->
+    <img src="{{ . }}" alt="{{ $.Params.title }}" />
+  {{ end }}
 </div>

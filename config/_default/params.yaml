@@ -119,3 +119,5 @@ params:
   search:
     enable: true
     representative_image: "uploads/icon.jpg"  # 대표 이미지 추가
+
+

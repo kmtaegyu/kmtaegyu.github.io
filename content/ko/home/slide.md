@@ -10,7 +10,7 @@ weight: 15
 title: ''
 subtitle: ''
 
-sectinos:
+sections:
  - block: slider
    content:
       slides:
@@ -20,7 +20,7 @@ sectinos:
         align: center
         background:
           image:
-            filename: icon.jpg
+            filename: /media/icon.jpg
             filters:
               brightness: 0.4
           position: center
@@ -31,7 +31,7 @@ sectinos:
         align: center
         background:
           image:
-            filename: icon1.jpg
+            filename: /media/icon1.jpg
             filters:
               brightness: 0.4
           position: center
@@ -42,7 +42,7 @@ sectinos:
         align: center
         background:
           image:
-            filename: icon2.jpg
+            filename: /media/icon2.jpg
             filters:
               brightness: 0.4
           position: center
