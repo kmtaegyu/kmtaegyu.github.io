@@ -1,7 +1,7 @@
 ---
 # Display name
-title: 김태규(전북대학교)
-
+title: Kim Taegyu
+subtitle: kmtaegyu@gmail.com
 # Is this the primary user of the site?
 superuser: true
 
@@ -18,7 +18,7 @@ status:
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Mi interés en la investigación es la programación web y el análisis de datos.
 
 #interests:
 #- Artificial Intelligence
@@ -68,18 +68,18 @@ social:
 #email: ""
 ---
 
-전북대학교 컴퓨터공학부 재학, 웹개발과 인공지능을 공부하고 있다. 
-Java, c, kotlin으로 프로젝트를 수행하였다. 현재는 Node.js로 웹개발을 공부하고 있으며, Data Minning수업을 들으며 ADP자격증을 공부하고 있다. 
-등산, 런닝, 축구, 수영을 취미로 하고 있다.
+Estudia ingeniería informática en la Universidad Nacional de Jeonbuk y estudia desarrollo web e inteligencia artificial.
+Se llevaron a cabo proyectos en Java, c y kotlin. Actualmente, está estudiando el desarrollo web con Node.js y está estudiando la certificación ADP tomando clases de aprendizaje de datos.
+Tengo aficiones como escalar, correr, jugar al fútbol y nadar.
 
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/data4.pdf" "newtab" >}}Download{{< /staticref >}} 수행 과제 PDF
+{{< icon name="download" pack="fas" >}} {{< staticref "uploads/data4.pdf" "newtab" >}}Download{{< /staticref >}} misión PDF
 
 # App Project
 
-Android studio에서 Kotlin을 이용해 팀프로젝트를 진행.
-내 역할 : 메신저 개발
-핵심 : Firebase를 이용해 실시간 정보 전달, 양쪽 모두 실시간 데이터 sync를 통해 메시지 확인
+Usando Kotlin para hacer un proyecto de equipo en el estudio Android.
+Mi papel: desarrollar mensajería instantánea
+Clave: Transmisión de información en tiempo real usando Firebase, ambos mediante sincronización de datos en tiempo real para confirmar el mensaje.
 
 # Web Project
 
-Node.js를 이용해 백엔드를 공부 중
+Y mientras estudiaba el backend con Node.js,

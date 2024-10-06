@@ -1,6 +1,6 @@
 ---
-title: app develop
-summary: Team Project with kotlin
+title: desarrollo de aplicaciones
+summary: Proyecto de equipo con kotlin
 tags:
   - app
 url: /project/app/

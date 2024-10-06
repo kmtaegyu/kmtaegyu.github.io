@@ -71,7 +71,7 @@ computer engineering student at Chonbuk National University and is studying web 
 Projects were carried out with Java, c, and kotlin. Currently, he is studying web development with Node.js and studying ADP certificates while taking Data Mining classes.
 My hobbies are hiking, running, soccer, and swimming.
 
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/data4.pdf" "newtab" >}}Download{{< /staticref >}} 수행 과제 PDF
+{{< icon name="download" pack="fas" >}} {{< staticref "uploads/data4.pdf" "newtab" >}}Download{{< /staticref >}} my task PDF
 
 # App Project
 

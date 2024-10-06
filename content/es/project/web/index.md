@@ -1,6 +1,6 @@
 ---
-title: Web develop
-summary: My Web Project Using Node.js
+title: Desarrollo web
+summary: Mi proyecto Web usando Node.js
 tags:
   - web
 url: /project/web/

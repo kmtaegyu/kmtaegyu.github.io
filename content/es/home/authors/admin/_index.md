@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 김태규
+title: Kim Taegyu
 
 # Is this the primary user of the site?
 superuser: true
@@ -18,13 +18,13 @@ status:
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include web development and artificial intelligence.
+bio: Mi interés es el desarrollo web y el análisis de datos.
 
 
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Data Minning
+intereses:
+- Inteligencia artificial
+- Lingüística computacional
+- Análisis de datos
 
 #education:
 #  courses:
