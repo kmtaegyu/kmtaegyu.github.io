@@ -22,28 +22,28 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: 컴퓨터공학부
-    company: 전북대학교
+  - title: Department of Computer Engineering
+    company: JBNU
     company_url: ''
     company_logo: org-x
-    location: 전주
+    location: Jeonju
     date_start: '2019-03-01'
     date_end: '2025-12-31'
 
-  - title: 전자과
-    company: 경기기계공업고등학교
+  - title: electronics department
+    company: Gyeonggi Mechanical Technical High School
     company_url: ''
     company_logo: org-x
-    location: 서울
+    location: Seoul
     date_start: '2016-03-01'
     date_end: '2018-12-31'
     description: |2-
-        자격증:
+        Certificate:
         
-        * 정보처리기능사
-        * 전자기기기능사
-        * 전자캐드기능사
-        * 리눅스마스터 2급
+        * information processing technician
+        * Electronic device technician
+        * Electronic Cad Technician
+        * Linux Master Level 2
 
 #  - title: BEng Electronic Engineering
 #    company: University X

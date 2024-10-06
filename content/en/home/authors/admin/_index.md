@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 김태규
+title: Kim Taegyu
 
 # Is this the primary user of the site?
 superuser: true

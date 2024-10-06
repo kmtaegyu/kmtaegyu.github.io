@@ -1,7 +1,6 @@
 ---
 # Display name
-title: 김태규(전북대학교)
-
+title: Kim Taegyu
 # Is this the primary user of the site?
 superuser: true
 
@@ -18,7 +17,7 @@ status:
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Web Programming and Data Alaysis.
 
 #interests:
 #- Artificial Intelligence
@@ -68,18 +67,18 @@ social:
 #email: ""
 ---
 
-전북대학교 컴퓨터공학부 재학, 웹개발과 인공지능을 공부하고 있다. 
-Java, c, kotlin으로 프로젝트를 수행하였다. 현재는 Node.js로 웹개발을 공부하고 있으며, Data Minning수업을 들으며 ADP자격증을 공부하고 있다. 
-등산, 런닝, 축구, 수영을 취미로 하고 있다.
+computer engineering student at Chonbuk National University and is studying web development and artificial intelligence.
+Projects were carried out with Java, c, and kotlin. Currently, he is studying web development with Node.js and studying ADP certificates while taking Data Mining classes.
+My hobbies are hiking, running, soccer, and swimming.
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/data4.pdf" "newtab" >}}Download{{< /staticref >}} 수행 과제 PDF
 
 # App Project
 
-Android studio에서 Kotlin을 이용해 팀프로젝트를 진행.
-내 역할 : 메신저 개발
-핵심 : Firebase를 이용해 실시간 정보 전달, 양쪽 모두 실시간 데이터 sync를 통해 메시지 확인
+Team project using Kotlin in Android study.
+My role: Messenger development
+Key : Deliver real-time information using Firebase, both of which check messages through real-time data sync
 
 # Web Project
 
-Node.js를 이용해 백엔드를 공부 중
+Studying the backend using Node.js

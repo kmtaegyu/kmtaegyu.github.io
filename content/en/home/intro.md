@@ -18,7 +18,7 @@ author: admin
 #  css_class: fullscreen
 ---
 
-전북대학교 컴퓨터공학부 김태규
+JBNU Department of Computer Engineering kim Taegyu
 {style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
 
-포트폴리오 링크 -> [포트폴리오](/about/)
+Portfolio link -> [Portfolio](/about/)

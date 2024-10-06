@@ -18,7 +18,7 @@ status:
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include web development and Data Analysis.
+bio: 내 관심분야는 웹개발과 데이터분석이다.
 
 
 interests:
